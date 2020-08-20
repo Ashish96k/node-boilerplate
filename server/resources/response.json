@@ -1,0 +1,16 @@
+{
+  "SUCCESS": "Success",
+  "USER_NOT_FOUND": "User not found",
+  "TOKEN_NOT_PROVIDED": "You are not authorized to excess this path.Please provide autherization token.",
+  "INVALID_TOKEN": "Provided token is invalid",
+  "LOGIN_SUCCESSFULLY": "You are successfully login.",
+  "DB_ERROR": "Something went wrong.",
+  "DUPLICATE": "Duplicate entry.",
+  "EMAIL_ALREADY_EXISTS": "This user is already registered with us",
+  "APP_ERROR": "Application error occurred.",
+  "INVALID_OBJECT_ID": "Invalid ID provided.",
+  "DEFAULT": "Something went wrong.",
+  "INVALID_CREDENTIALS": "Incorrect credentials.",
+  "FAILED": "Failed",
+  "SQL_ERROR": "DB: Something went wrong."
+}
